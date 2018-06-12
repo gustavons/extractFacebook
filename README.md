@@ -1,0 +1,3 @@
+# extractFacebook
+
+Nenhuma politica 
